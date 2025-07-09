@@ -1,0 +1,25 @@
+# Android build files
+*.apk
+*.aab
+build/
+.gradle/
+*.dex
+*.class
+
+# Android Studio
+.idea/
+*.iml
+local.properties
+
+# Signing files
+*.jks
+*.keystore
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+.DS_Store
+Thumbs.db
